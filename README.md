@@ -1,5 +1,13 @@
 # Xcode Templates
 
+## Templates:
+
+- Programmatic single view app
+   - No storyboards
+   - Single root view controller wired up in AppDelegate
+   - Root view controller has customizable name
+   - Optionally nest root view controller in navigation controller
+
 ## Installation
 
 Run this in your console:
